@@ -12,7 +12,7 @@ function numA(tam){
 
 function sortearAmigo(){
     numA();
-    amigoSort.push(num)
+    amigoSort.push(num);
     
 
 
